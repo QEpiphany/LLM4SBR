@@ -1,2 +1,2 @@
-# LLMSessionRec
-A Lightweight and Effective LLM-enhanced Framework for Session-based Recommendation
+# LLM4SBR
+A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation
