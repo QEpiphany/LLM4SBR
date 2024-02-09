@@ -1,4 +1,3 @@
 # LLM4SBR
-A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation
-
+Intents Alignment Framework for LLM enhanced Recommendation: A Session Behavior Perspective
 We will release the complete version of the code publicly after the paper is accepted. Stay tuned!
